@@ -1,2 +1,2 @@
 version from conflict-test
-conflict-test
+good morning!!!
